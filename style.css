@@ -1,0 +1,12 @@
+header{background-image: url(정대만.jpg); 
+       background-size:cover; 
+       background-position:center top; 
+       background-attachment: fixed}; 
+#mainpagethree {background-image: url("베이지.jpg");
+              background-size: cover;
+              background-position: center;}
+#sns-links{background-image:linear-gradient(rgba(0,0,0,0.8)),(rgba(82, 211, 50, 0.208)), url();
+       background-size:cover; 
+       background-position:center; 
+       background-attachment: fixed;}            
+            
